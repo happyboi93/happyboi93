@@ -1,6 +1,8 @@
 👋 Hi there, I'm @happyboi93
 
-💻 Full-Stack Developer, Data Scientist & CyberSec in the Making | React.js • Node.js • Mongo.db • Python • Web Development
+happyboi93
+
+💻 Full-Stack Developer, Aspiring Data Scientist & Cybersecurity Specialist | React.js • Node.js • MongoDB • Python • Web Development
 
 🚀 About Me
 

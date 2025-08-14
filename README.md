@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @happyboi93
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m done with  learning react and moving towards angular , i have a project on react which you can view from <a href='' >here</a>
-- 💞️ I’m looking to collaborate on every project and ideas u bring
-- 📫 How to reach me happyboi3000@gmail.com
+👋 Hi there, I'm @happyboi93
 
-<!---
-happyboi93/happyboi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Developer, Data Scientist & CyberSec in the Making | React.js • Node.js • Mongo.db • Python • Web Development
+
+🚀 About Me
+
+👀 Passionate about building scalable, user-friendly web apps
+
+🌱 Completed React.js learning with a hands-on project — View Project
+
+🐍 Currently learning Python to level up backend and data skills
+
+💞️ Open to collaborating on innovative projects, open-source contributions, and real-world solutions
+
+📫 Reach me at: happyboi3000@gmail.com
+
+🛠️ Tech Stack
+
+Frontend: React.js, HTML, CSS, JavaScript
+
+Backend: Node.js, Mongo.db, Nextjs 
+Backend (Learning): Python, Flask/Django (up next)
+Tools & Platforms: Git, GitHub, VS Code, Node.js, Cisco
+
+📊 GitHub Stats
+
+
+
+⭐ "Always learning, always building."
